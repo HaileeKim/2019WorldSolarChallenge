@@ -1,0 +1,5 @@
+sudo apt-get update
+sudo apt-get install i2c-tools
+sudo apt-get install python-smbus
+sudo apt-get install python-dev python3-dev
+
